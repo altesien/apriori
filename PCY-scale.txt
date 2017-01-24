@@ -1,0 +1,120 @@
+THRESHOLD: 2 -- LINES: 10000
+----------------------------------------
+"Elapsed time: 50581.258223 msecs"
+"Elapsed time: 50773.193633 msecs"
+"Elapsed time: 52960.738777 msecs"
+"Elapsed time: 50740.141931 msecs"
+"Elapsed time: 50641.396843 msecs"
+----------------------------------------
+THRESHOLD: 2 -- LINES: 20000
+----------------------------------------
+"Elapsed time: 108776.949371 msecs"
+"Elapsed time: 108219.024876 msecs"
+"Elapsed time: 106693.286524 msecs"
+"Elapsed time: 108938.96809 msecs"
+"Elapsed time: 108422.674147 msecs"
+----------------------------------------
+THRESHOLD: 2 -- LINES: 30000
+----------------------------------------
+"Elapsed time: 181870.169421 msecs"
+"Elapsed time: 185584.349623 msecs"
+"Elapsed time: 180856.410249 msecs"
+"Elapsed time: 183787.815994 msecs"
+"Elapsed time: 180563.698403 msecs"
+----------------------------------------
+THRESHOLD: 2 -- LINES: 40000
+----------------------------------------
+"Elapsed time: 262145.351459 msecs"
+"Elapsed time: 261715.745483 msecs"
+"Elapsed time: 260779.012558 msecs"
+"Elapsed time: 264064.277635 msecs"
+"Elapsed time: 262257.295183 msecs"
+----------------------------------------
+THRESHOLD: 2 -- LINES: 50000
+----------------------------------------
+"Elapsed time: 337808.465245 msecs"
+"Elapsed time: 337090.766132 msecs"
+"Elapsed time: 337018.69386 msecs"
+"Elapsed time: 341738.918664 msecs"
+"Elapsed time: 321786.826477 msecs"
+----------------------------------------
+THRESHOLD: 500 -- LINES: 10000
+----------------------------------------
+"Elapsed time: 1835.172262 msecs"
+"Elapsed time: 1851.596823 msecs"
+"Elapsed time: 2162.920522 msecs"
+"Elapsed time: 1826.408346 msecs"
+"Elapsed time: 2002.931207 msecs"
+----------------------------------------
+THRESHOLD: 500 -- LINES: 20000
+----------------------------------------
+"Elapsed time: 2892.803544 msecs"
+"Elapsed time: 2846.384587 msecs"
+"Elapsed time: 3114.993753 msecs"
+"Elapsed time: 2977.206551 msecs"
+"Elapsed time: 3034.707285 msecs"
+----------------------------------------
+THRESHOLD: 500 -- LINES: 30000
+----------------------------------------
+"Elapsed time: 4086.682251 msecs"
+"Elapsed time: 3963.414278 msecs"
+"Elapsed time: 4254.063403 msecs"
+"Elapsed time: 3977.91023 msecs"
+"Elapsed time: 4273.121447 msecs"
+----------------------------------------
+THRESHOLD: 500 -- LINES: 40000
+----------------------------------------
+"Elapsed time: 5248.977185 msecs"
+"Elapsed time: 5413.845874 msecs"
+"Elapsed time: 5516.093647 msecs"
+"Elapsed time: 5537.354598 msecs"
+"Elapsed time: 5451.362736 msecs"
+----------------------------------------
+THRESHOLD: 500 -- LINES: 50000
+----------------------------------------
+"Elapsed time: 6859.987165 msecs"
+"Elapsed time: 6724.75629 msecs"
+"Elapsed time: 6829.572889 msecs"
+"Elapsed time: 6530.709642 msecs"
+"Elapsed time: 6509.914104 msecs"
+----------------------------------------
+THRESHOLD: 10000 -- LINES: 10000
+----------------------------------------
+"Elapsed time: 1931.409772 msecs"
+"Elapsed time: 1754.295422 msecs"
+"Elapsed time: 1868.503643 msecs"
+"Elapsed time: 1842.370503 msecs"
+"Elapsed time: 1923.33336 msecs"
+----------------------------------------
+THRESHOLD: 10000 -- LINES: 20000
+----------------------------------------
+"Elapsed time: 2840.287059 msecs"
+"Elapsed time: 2794.506212 msecs"
+"Elapsed time: 2603.389129 msecs"
+"Elapsed time: 2713.855896 msecs"
+"Elapsed time: 2628.805476 msecs"
+----------------------------------------
+THRESHOLD: 10000 -- LINES: 30000
+----------------------------------------
+"Elapsed time: 3850.004937 msecs"
+"Elapsed time: 3508.989744 msecs"
+"Elapsed time: 3867.365296 msecs"
+"Elapsed time: 3828.609956 msecs"
+"Elapsed time: 3841.48213 msecs"
+----------------------------------------
+THRESHOLD: 10000 -- LINES: 40000
+----------------------------------------
+"Elapsed time: 4696.271331 msecs"
+"Elapsed time: 4638.277292 msecs"
+"Elapsed time: 4589.222158 msecs"
+"Elapsed time: 4793.591533 msecs"
+"Elapsed time: 4542.319431 msecs"
+----------------------------------------
+THRESHOLD: 10000 -- LINES: 50000
+----------------------------------------
+"Elapsed time: 5336.369185 msecs"
+"Elapsed time: 5571.822084 msecs"
+"Elapsed time: 5407.022323 msecs"
+"Elapsed time: 5530.231527 msecs"
+"Elapsed time: 5824.021482 msecs"
+----------------------------------------
