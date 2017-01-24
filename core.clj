@@ -130,6 +130,3 @@
   [& args]
   (time (-read-file (first args) (read-string (second args))))
   )
-
-
-(-main "/media/alty/UUI/Linux/Documents/DataLab/test.dat" "5")
