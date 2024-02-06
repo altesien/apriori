@@ -2,8 +2,6 @@ THRESHOLD: 2 -- LINES: 10000
 ----------------------------------------
 "Elapsed time: 50581.258223 msecs"
 "Elapsed time: 50773.193633 msecs"
-"Elapsed time: 52960.738777 msecs"
-"Elapsed time: 50740.141931 msecs"
 "Elapsed time: 50641.396843 msecs"
 ----------------------------------------
 THRESHOLD: 2 -- LINES: 20000
